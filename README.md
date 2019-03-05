@@ -1,2 +1,2 @@
-# nogiajitendra.github.io
-Website
+# Jitendra Kumar
+Personal Website
